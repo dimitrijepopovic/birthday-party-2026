@@ -4,7 +4,7 @@ const content = [
   "SAVE THE DATE\n",
   "22.08.2026\n\n",
 
-  "You are hereby cordially invited to the 7th Annual Popović Brothers’ Birthday Celebration (27th overall), held beneath the clear skies of Koštunići, Serbia.\n\n",
+  "You are hereby cordially invited to the 5th Annual Popović Brothers’ Birthday Celebration (27th overall), held beneath the clear skies of Koštunići, Serbia.\n\n",
 
   "⸻\n\n",
 
